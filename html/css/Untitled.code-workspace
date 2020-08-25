@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../../Downloads/Bootsrap-Food-Item"
+		},
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../../Documents/Backup F/admin-pro-lite-master"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "admin-pro-lite-master"
+	}
+}
